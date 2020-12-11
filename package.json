@@ -1,0 +1,20 @@
+{
+  "name": "wx-qq-converter",
+  "version": "1.0.0",
+  "description": "a code converter for wx & qq",
+  "main": "converter.js",
+  "bin": {
+    "converter": "./converter.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wx",
+    "qq",
+    "code",
+    "converter"
+  ],
+  "author": "frank.you",
+  "license": "ISC"
+}
